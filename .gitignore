@@ -1,0 +1,11 @@
+# Ignore dirs:
+__pycache__
+/datasets
+/.idea
+/save
+/logs
+/resource
+
+# Ignore files:
+.DS_Store
+/eval_*.txt
