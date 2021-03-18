@@ -1,7 +1,7 @@
 # Negative Sampling for NER
 
 *Unlabeled entity problem* is prevalent in many NER scenarios (e.g., weakly supervised NER). 
-Our [paper](https://openreview.net/forum?id=5jRVa89sZk) in ICLR-2021 proposes using negative sampling for solving this issue.
+Our [paper](https://openreview.net/forum?id=5jRVa89sZk) in ICLR-2021 proposes using negative sampling for solving this important issue.
 This repo. contains the implementation of our approach.
 
 Note that this is not an officially supported Tencent product.
