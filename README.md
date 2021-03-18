@@ -32,7 +32,7 @@ Create a dir. named "resource" and arrange them as
         - vocab.txt
     - conlleval.pl
 
-Note that the files in BERT need to be renamed as above.
+Note that the files in BERT.tar.gz need to be renamed as above.
 
 ## Training and Test
 ```
