@@ -8,7 +8,7 @@ Note that this is not an officially supported Tencent product.
 
 ## Preparation
 
-Two steps. Firstly, reformulating the NER data and move it into a new folder named "dataset". 
+Two steps. Firstly, reformulate the NER data and move it into a new folder named "dataset". 
 The folder contains {train, dev, test}.json. 
 Each JSON file is a list of dicts. See the following case:
 ```
