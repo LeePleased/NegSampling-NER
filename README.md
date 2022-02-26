@@ -48,12 +48,4 @@ CUDA_VISIBLE_DEVICES=0 python main.py -dd dataset -cd save -rd resource
     year={2021},
     url={https://openreview.net/forum?id=5jRVa89sZk}
 }
-
-@inproceedings{li-etal-2022-rethinking,
-    title = "Rethinking Negative Sampling for Handling Missing Entity Annotations",
-    author = "Li, Yangming and Liu, Lemao and Shi, Shuming",
-    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
-    year = "2022",
-    publisher = "Association for Computational Linguistics"
-}
 ```
